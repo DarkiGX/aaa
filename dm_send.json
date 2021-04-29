@@ -1,0 +1,6 @@
+{
+    "cs!help" : "**Olá, meus comandos são os seguintes:**\n \n> `cs!pix` \n> `cs!picpay`\n> `cs!mercadopago`\n> `cs!help` ",
+    "cs!mercadopago" : "> <:MercadoPagoCYStore:800118122187063327> Para pagar com Mercado Pago, envie o dinheiro para `gabrielsouza.delima84@gmail.com`, em seguida envie a confirmação do pagamento para o vendedor.",
+    "cs!picpay" : "> <:PicPayCYStore:800117972064272414> Para pagar com PicPay, acesse https://picpay.me/gabriel.souza.007, ou envie o dinheiro para `@gabriel.souza.007`, em seguida envia a confirmação do pagamento para o vendedor.",
+    "cs!pix" : "> <:PixCYStore:804889086346657842> Para pagar com Pix, envie seu pagamento via chave aleatória (`5906b5ba-5890-4ed6-9a72-c944b0c4c6b1`)."
+}
