@@ -1,6 +1,9 @@
 {
-    "cs!help" : "**Olá, meus comandos são os seguintes:**\n \n> `cs!pix` \n> `cs!picpay`\n> `cs!mercadopago`\n> `cs!help` ",
-    "cs!mercadopago" : "> <:MercadoPagoCYStore:800118122187063327> Para pagar com Mercado Pago, envie o dinheiro para `gabrielsouza.delima84@gmail.com`, em seguida envie a confirmação do pagamento para o vendedor.",
-    "cs!picpay" : "> <:PicPayCYStore:800117972064272414> Para pagar com PicPay, acesse https://picpay.me/gabriel.souza.007, ou envie o dinheiro para `@gabriel.souza.007`, em seguida envia a confirmação do pagamento para o vendedor.",
-    "cs!pix" : "> <:PixCYStore:804889086346657842> Para pagar com Pix, envie seu pagamento via chave aleatória (`5906b5ba-5890-4ed6-9a72-c944b0c4c6b1`)."
+    "5!help" : "**Olá, meus comandos são os seguintes:**\n \n> `5!pix diego`\n> `5!mercadopago diego`\n> `5!pix gustavin` \n> `5!help`\n \n > <a:AlertaCYStore:849354613559656468> **Servidor de suporte do bot:** https://discord.gg/e85ksj5MgJ",
+
+    "5!mercadopago diego" : "> <:MercadoPagoCYStore:800118122187063327> Para pagar com Mercado Pago, envie o dinheiro para `diegojunior300782@gmail.com`.\n \n <a:AlertaCYStore:849354613559656468> **Após o pagamento, envie o comprovante para o vendedor..**",
+
+    "5!pix gustavin" : "> <:PixCYStore:804889086346657842> Para pagar com Pix, envie seu pagamento via chave aleatória (`0cf8f15d-456b-42a5-bdab-b8842f46b18c`), chave email (`gmedau007@gmail.com`) ou pelo qr code abaixo:\n \n <a:AlertaCYStore:849354613559656468> **Após o pagamento, envie o comprovante para o vendedor.*.**",
+
+    "5!pix diego" : "> <:PixCYStore:804889086346657842> Para pagar com Pix, envie seu pagamento via chave aleatória (` 8c29c01b-78b4-4d2b-9a91-ff0a49e30a8a`), chave email (`diegojunior300782@gmail.com`) ou pelo qr code abaixo:\n \n <a:AlertaCYStore:849354613559656468> **Após o pagamento, envie o comprovante para o vendedor.**"
 }

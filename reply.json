@@ -1,6 +1,6 @@
 {
-    "cs!help" : "Cheque a mensagem que te enviei em sua dm.",
-    "cs!mercadopago" : "Te enviei informações de como pagar usando Mercado Pago<:MercadoPagoCYStore:800118122187063327> lá na sua dm, da uma olhada! :wink:",
-    "cs!picpay" :  "Te enviei informações de como pagar usando PicPay<:PicPayCYStore:800117972064272414> lá na sua dm, da uma olhada! :wink:",
-    "cs!pix" : "Te enviei informações de como pagar usando Pix<:PixCYStore:804889086346657842> lá na sua dm, da uma olhada! :wink:"
+    "5!help" : "Cheque a mensagem que te enviei em sua dm.",
+    "5!mercadopago diego" : "Te enviei informações de como pagar o vendedor <@348511767455858688> usando Mercado Pago<:MercadoPagoCYStore:800118122187063327> lá na sua dm, da uma olhada! :wink:",
+    "5!pix gustavin" :  "Te enviei informações de como pagar o vendedor <@722227691855675464> usando Pix<:PixCYStore:804889086346657842> lá na sua dm, da uma olhada! :wink:",
+    "5!pix diego" : "Te enviei informações de como pagar o vendedor <@348511767455858688> usando Pix<:PixCYStore:804889086346657842> lá na sua dm, da uma olhada! :wink:"
 }
